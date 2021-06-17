@@ -1,8 +1,8 @@
 name: single_searchable_dropdown
 description: Single Searchable Dropdown
 version: 1.0.0
-author:
-homepage:
+author: Le Duy Tho
+homepage: https://github.com/LeDuyTho/single_searchable_dropdown
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
